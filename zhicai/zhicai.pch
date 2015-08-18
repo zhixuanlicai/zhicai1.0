@@ -1,0 +1,64 @@
+//
+//  zhicai.pch
+//  zhicai
+//
+//  Created by perfect on 15/3/19.
+//  Copyright (c) 2015年 perfect. All rights reserved.
+//
+
+#ifndef zhicai_zhicai_pch
+#define zhicai_zhicai_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#define iOS7  [[UIDevice currentDevice]systemVersion].floatValue>=7.0
+
+#define iphone6 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(750, 1334), [[UIScreen mainScreen] currentMode].size) : NO)
+#define iphone6P ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(1080, 1920), [[UIScreen mainScreen] currentMode].size) : NO)
+#define iPhone5 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(640, 1136), [[UIScreen mainScreen] currentMode].size) : NO)
+
+#define iPhone4 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(640, 960), [[UIScreen mainScreen] currentMode].size) : NO)
+
+#define MRScreenWidth     ([UIScreen mainScreen].bounds.size.width)
+#define MRScreenHeight    ([UIScreen mainScreen].bounds.size.height)
+
+#define RATE MRScreenWidth/320.0
+
+
+// SMS 短信验证码
+#define SMSAppKey @"6a558f468aae"
+#define SMSAppSercet @"1a8f29a5552e4f2e84930ef8311870ff"
+
+
+
+#define ViewWidth MRScreenWidth
+//#define ViewHeight (MRScreenHeight +20)
+#define ViewHeight MRScreenHeight
+
+#define ToolsColor [UIColor colorWithRed:242/255.0 green:243/255.0 blue:240/255.0 alpha:1]
+#define RedColor [UIColor colorWithRed:252/255.0 green:49/255.0 blue:95/255.0 alpha:1]
+#define GayColor [UIColor colorWithRed:247/255.0 green:248/255.0 blue:245/255.0 alpha:1]
+
+/// 颜色宏定义
+#define RGBA(R/*红*/, G/*绿*/, B/*蓝*/, A/*透明*/) \
+[UIColor colorWithRed:R/255.f green:G/255.f blue:B/255.f alpha:A]
+//手机注册号码
+#define CURRENT_USER_PHONE @"CURRENT_USER_PHONE"
+// 确认登录密码
+#define CURRENT_USER_PWD @"CURRENT_USER_PWD"
+
+#define CURRENT_USER_KEY @"CURRENT_USER_KEY"
+#define CURRENT_USER_INFO @"CURRENT_USER_INFO"
+#define CURRENT_USER_PASSWORD @"CURRENT_USER_PASSWORD"
+#define CURRENT_USER_Days @"CURRENT_USER_Days"
+
+#import "MyControl.h"
+#import "Httptool.h"
+#import "commondef.h"
+#import "MJExtension.h"
+#import "AppDelegate.h"
+#import "commfunc.h"
+#import "UIAlertView+Block.h"
+#import "UIColor+expanded.h"
+#import "SVProgressHUD.h"
+#endif

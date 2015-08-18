@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/Login/Register3ViewController.m"
+            timestampString = "459951188.603047"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "-loginClick"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Httptool.m"
+            timestampString = "459741434.574198"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "+postWithURL:Params:Success:Failure:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/buy/AddBankView.m"
+            timestampString = "460367347.138096"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "-sureClick"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AddBankView sureClick]"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/buy/AddBankView.m"
+                  timestampString = "460372621.300585"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "1123">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__24-[AddBankView sureClick]_block_invoke"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/buy/AddBankView.m"
+                  timestampString = "460372621.300857"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Httptool.m"
+            timestampString = "459768470.894532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "+getWithURL:Params:Success:Failure:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[Httptool getWithURL:Params:Success:Failure:]"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/Httptool.m"
+                  timestampString = "460372621.301875"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "231">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__46+[Httptool getWithURL:Params:Success:Failure:]_block_invoke"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/Httptool.m"
+                  timestampString = "460372621.302076"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "61">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/Controllers/RecordInfoView.m"
+            timestampString = "460368011.943537"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "-request"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RecordInfoView request]"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/Controllers/RecordInfoView.m"
+                  timestampString = "460372621.303151"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "391">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__25-[RecordInfoView request]_block_invoke"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/Controllers/RecordInfoView.m"
+                  timestampString = "460372621.303362"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/Controllers/MyMoneyViewController.m"
+            timestampString = "459914975.940118"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "306"
+            endingLineNumber = "306"
+            landmarkName = "-uploadData"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MyMoneyViewController uploadData]"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/Controllers/MyMoneyViewController.m"
+                  timestampString = "459937615.231326"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "306"
+                  endingLineNumber = "306"
+                  offsetFromSymbolStart = "717">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[MyMoneyViewController uploadData]_block_invoke"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/Controllers/MyMoneyViewController.m"
+                  timestampString = "459937615.231515"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "306"
+                  endingLineNumber = "306"
+                  offsetFromSymbolStart = "86">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/Controllers/RecordController.m"
+            timestampString = "459858789.313076"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "-connect"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RecordController connect]"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/Controllers/RecordController.m"
+                  timestampString = "460372621.304415"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "487">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__27-[RecordController connect]_block_invoke"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/Controllers/RecordController.m"
+                  timestampString = "460372621.304623"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "86">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/Login/LoginViewController.m"
+            timestampString = "460052298.662135"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "-loginClick"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LoginViewController loginClick]"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/Login/LoginViewController.m"
+                  timestampString = "460372621.305649"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "310">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__33-[LoginViewController loginClick]_block_invoke"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/Login/LoginViewController.m"
+                  timestampString = "460372621.305847"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/Controllers/SaleViewController.m"
+            timestampString = "460031144.541257"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "-request"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SaleViewController request]"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/Controllers/SaleViewController.m"
+                  timestampString = "460372621.306882"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__29-[SaleViewController request]_block_invoke"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/Controllers/SaleViewController.m"
+                  timestampString = "460372621.307082"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/Controllers/productViewController.m"
+            timestampString = "461268641.429078"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "-request"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/Controllers/productViewController.m"
+            timestampString = "461268641.429078"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "-request"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/person/ChangeBankController.m"
+            timestampString = "459938945.686309"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "-connect"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ChangeBankController connect]"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/person/ChangeBankController.m"
+                  timestampString = "460372621.312407"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "954">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__31-[ChangeBankController connect]_block_invoke"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/person/ChangeBankController.m"
+                  timestampString = "460372621.313158"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/Login/LoginViewController.m"
+            timestampString = "460052298.662135"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "-loginClick"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/person/ChangeBankController.m"
+            timestampString = "460297057.329257"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "228"
+            endingLineNumber = "228"
+            landmarkName = "-tableView:commitEditingStyle:forRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/Controllers/productViewController.m"
+            timestampString = "461268641.429078"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "480"
+            endingLineNumber = "480"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/Controllers/productViewController.m"
+            timestampString = "461268641.429078"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "487"
+            endingLineNumber = "487"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/buy/SelectBankViewController.m"
+            timestampString = "460212338.895536"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "-connect"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SelectBankViewController connect]"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/buy/SelectBankViewController.m"
+                  timestampString = "460372621.327311"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[SelectBankViewController connect]_block_invoke"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/buy/SelectBankViewController.m"
+                  timestampString = "460372621.327908"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "86">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/Controllers/MyMoneyViewController.m"
+            timestampString = "460351023.937587"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "353"
+            endingLineNumber = "353"
+            landmarkName = "-pullingTableViewDidStartRefreshing:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/Controllers/MyMoneyViewController.m"
+            timestampString = "460351023.937587"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "363"
+            endingLineNumber = "363"
+            landmarkName = "-pullingTableViewDidStartLoading:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/buy/BuyController.m"
+            timestampString = "460357966.345412"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "-connect"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[BuyController connect]"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/buy/BuyController.m"
+                  timestampString = "460372621.331793"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "487">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__24-[BuyController connect]_block_invoke"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/buy/BuyController.m"
+                  timestampString = "460372621.33205"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "86">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/buy/BuyController.m"
+            timestampString = "460357984.55054"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
+            landmarkName = "-sureClick"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[BuyController sureClick]"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/buy/BuyController.m"
+                  timestampString = "460372621.333299"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "214"
+                  endingLineNumber = "214"
+                  offsetFromSymbolStart = "1052">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__26-[BuyController sureClick]_block_invoke"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/buy/BuyController.m"
+                  timestampString = "460372621.333496"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "214"
+                  endingLineNumber = "214"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "controller/Controllers/RecordInfoView.m"
+            timestampString = "460369592.747498"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "202"
+            endingLineNumber = "202"
+            landmarkName = "-btnClick"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RecordInfoView btnClick]"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/Controllers/RecordInfoView.m"
+                  timestampString = "460372621.33464"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "322">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__26-[RecordInfoView btnClick]_block_invoke"
+                  moduleName = "zhicai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chensisi/Downloads/zxlc/%E5%BD%92%E6%A1%A3/%E6%99%BA%E8%B4%A2/zhicai3/controller/Controllers/RecordInfoView.m"
+                  timestampString = "460372621.334942"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

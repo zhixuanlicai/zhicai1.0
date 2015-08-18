@@ -1,0 +1,54 @@
+//
+//  ClassStyle.m
+//  RuiSi
+//
+//  Created by  yanguang on 3/5/14.
+//  Copyright (c) 2014 yyt. All rights reserved.
+//
+
+#import "ClassStyle.h"
+
+@implementation ClassStyle
+
+@end
+
+@implementation HappinessList
+@end
+
+@implementation HomeList
+@end
+
+@implementation ListContent
+@end
+
+@implementation PhotoList
+@end
+
+@implementation HappinessRecord
+
+@end
+
+@implementation MyWeddingCardModel
+
+@end
+
+@implementation MessageShowModel
+
+@end
+
+@implementation EditChooseModel
+
+@end
+
+@implementation ImgCommentList
+@end
+
+<<<<<<< HEAD
+@implementation WeddingModel
+@end
+
+@implementation HappinessRecordList
+=======
+@implementation EveryDeskDetailModel
+>>>>>>> 471a30301d3eef40d84b25f17a17639990e2ef82
+@end

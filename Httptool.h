@@ -8,7 +8,7 @@
 #import "AFNetworking.h"
 #import <Foundation/Foundation.h>
 //#define ZhiXuanLCHttpServer @"http://192.168.1.153:8080/tnloan2/getview/app"
-#define ZhiXuanLCHttpServer @"http://apps.zhixuanlicai.com:8090/tnloan2/getview/app"//外网
+#define ZhiXuanLCHttpServer @"http://apps.zhixuanlicai.com:61800/tnloan2/getview/app"//外网
 
 
 typedef NS_ENUM(NSInteger, HttpCode){

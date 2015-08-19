@@ -16,7 +16,6 @@
 		11496C551B7DBA790093B385 /* 2页后.fw.png in Resources */ = {isa = PBXBuildFile; fileRef = 11496C541B7DBA790093B385 /* 2页后.fw.png */; };
 		11496C971B7E54310093B385 /* ATLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 11496C961B7E54310093B385 /* ATLabel.m */; };
 		115CE1BC1B7D7FB500FE0814 /* 3.fw.png in Resources */ = {isa = PBXBuildFile; fileRef = 115CE1BB1B7D7FB500FE0814 /* 3.fw.png */; };
-		11DF94E31B7C6BA300FBA677 /* SDWebImage in Resources */ = {isa = PBXBuildFile; fileRef = 11DF94E21B7C6BA300FBA677 /* SDWebImage */; };
 		11DF94F11B7CBA7300FBA677 /* 首次到金黄色.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 11DF94F01B7CBA7300FBA677 /* 首次到金黄色.m4v */; };
 		11DF94F41B7CBA7F00FBA677 /* 首次启动页1.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 11DF94F21B7CBA7F00FBA677 /* 首次启动页1.m4v */; };
 		11DF94F51B7CBA7F00FBA677 /* 首次启动页2.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 11DF94F31B7CBA7F00FBA677 /* 首次启动页2.m4v */; };
@@ -304,7 +303,6 @@
 		11496C951B7E54310093B385 /* ATLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ATLabel.h; sourceTree = "<group>"; };
 		11496C961B7E54310093B385 /* ATLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ATLabel.m; sourceTree = "<group>"; };
 		115CE1BB1B7D7FB500FE0814 /* 3.fw.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.fw.png; sourceTree = "<group>"; };
-		11DF94E21B7C6BA300FBA677 /* SDWebImage */ = {isa = PBXFileReference; lastKnownFileType = folder; path = SDWebImage; sourceTree = "<group>"; };
 		11DF94F01B7CBA7300FBA677 /* 首次到金黄色.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = "首次到金黄色.m4v"; sourceTree = "<group>"; };
 		11DF94F21B7CBA7F00FBA677 /* 首次启动页1.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = "首次启动页1.m4v"; sourceTree = "<group>"; };
 		11DF94F31B7CBA7F00FBA677 /* 首次启动页2.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = "首次启动页2.m4v"; sourceTree = "<group>"; };
@@ -1304,7 +1302,6 @@
 		C9B199751ABA71690061A34C /* 3rd */ = {
 			isa = PBXGroup;
 			children = (
-				11DF94E21B7C6BA300FBA677 /* SDWebImage */,
 				81D58AD51B71DA99005084EE /* Colorexpend */,
 				81D58AC81B71BB40005084EE /* SKSTableView */,
 				81D16BDD1B6B977D0067895F /* animoGif */,
@@ -1654,7 +1651,6 @@
 				81D078451B7317B800FBAA86 /* konianbai@3x.png in Resources */,
 				81D0782F1B7317B800FBAA86 /* 2leimu2@2x.png in Resources */,
 				81D077C51B73163900FBAA86 /* tabbarsaleClick.png in Resources */,
-				11DF94E31B7C6BA300FBA677 /* SDWebImage in Resources */,
 				81D078741B7317B800FBAA86 /* zhongwancheng@2x.png in Resources */,
 				81D078601B7317B800FBAA86 /* tianjiayhk@3x.png in Resources */,
 				81D0782B1B7317B800FBAA86 /* 2leimu1@1x.png in Resources */,
